@@ -44,7 +44,7 @@ function Hero() {
           className=" object-cover rounded-lg translate-x-12"
         />
         <Image
-          src="/images/visa2.PNG"
+          src="/images/visa2.png"
           alt="visa card image"
           width={2000}
           height={2000}
